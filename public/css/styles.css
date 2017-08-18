@@ -1,0 +1,12 @@
+.btn:hover, .list-group-item:hover{
+  cursor: pointer;
+}
+
+.tweet:hover{
+  background-color: #1DA1F2;
+  color: white;
+}
+.omdb:hover{
+  background-color: #F3CE00;
+  color: white;
+}

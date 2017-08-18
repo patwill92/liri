@@ -1,0 +1,168 @@
+movie-this:
+
+Title: Moana,
+Year: 2016,
+Imdb Rating: 7.7/10,
+Rotten Tomatoes Rating: 96%,
+Country: USA,
+Language: English,
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison            
+      
+------------------------------------------------
+my-tweets:
+Date: Thu Aug 17 19:15:11 +0000 2017
+Tweet: Michelle and I are thinking of the victims and their families in Barcelona. Americans will always stand with our Spanish friends. Un abrazo.Date: Thu Dec 22 00:25:28 +0000 2016
+Tweet: If I wrapped a gift for you this Christmas, I am really sorry for the wrapping. Not my forteDate: Fri Dec 16 13:45:16 +0000 2016
+Tweet: team gurley on this one https://t.co/hTvqJbBXseDate: Fri Dec 02 11:46:24 +0000 2016
+Tweet: I forgot my coffee on my roof and drove away 🙃Date: Sun Nov 13 03:05:31 +0000 2016
+Tweet: #UFC205 https://t.co/Bq6WBUyuZaDate: Fri Nov 11 01:44:37 +0000 2016
+Tweet: I genuinely think my cat knows when I'm sad. He just places his paw on me and lays next to me for hours. It is the most beautiful thing.Date: Wed Nov 09 05:23:51 +0000 2016
+Tweet: We truly need to do something about the education system in this country because this is definitely the result of ignoranceDate: Mon Oct 10 02:13:41 +0000 2016
+Tweet: Russia and Assad are not the “good guys”, but neither are we as we fan the flames of war and pump weapons into the Middle East. #debateDate: Fri Sep 23 03:48:59 +0000 2016
+Tweet: Die-In Happening Now
+
+After #Charlotte Police Kill #KeithLamontScott &amp; Protester 
+
+10 minutes until Mayor imposed c… https://t.co/dCukJ2kod1Date: Wed Sep 14 20:46:50 +0000 2016
+Tweet: Trifecta of smoking power. https://t.co/XvpJmnoNRTDate: Sat Dec 19 05:34:49 +0000 2015
+Tweet: "Are you Russian?"
+"No Colombian"
+"Colombia in Europe?"
+-uber driver
+
+Bruh...Date: Tue Aug 11 13:03:04 +0000 2015
+Tweet: The Morning Cocktail I Drink Instead Of Coffee http://t.co/GJhf7qlWW6Date: Tue Aug 11 12:57:58 +0000 2015
+Tweet: Que mal que me sientoDate: Thu Jul 17 01:28:49 +0000 2014
+Tweet: Why is Drake making the ESPY's a race joke, he's not funnyDate: Sun Jul 06 23:49:05 +0000 2014
+Tweet: Jersey Boys is a great movie, makes me want to go beat my wife and smoke a cigDate: Fri Jul 04 21:55:21 +0000 2014
+Tweet: Adiooos colombia del sevilloooooDate: Mon Jun 16 02:53:54 +0000 2014
+Tweet: Forever @MiamiHEATDate: Sun Jun 15 23:09:05 +0000 2014
+Tweet: Chocolate Dipped Reese's Peanut Butter Cup Oreo Sandwich http://t.co/Q6zAIorfBJDate: Mon May 19 14:52:38 +0000 2014
+Tweet: And I will always thank The Lord for another day! I hope you guys have a blessed day! #CantComplain #ThankYouLord 🙏☝
+------------------------------------------------
+spotify-this-song:
+artist: Michael Jackson
+song: Billie Jean
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: P.Y.T. (Pretty Young Thing)
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: Beat It - Single Version
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: Thriller
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: Billie Jean
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Thriller
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Beat It - Single Version
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Thriller
+url: https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm
+album: Michael Jackson's This Is Itartist: Michael Jackson
+song: P.Y.T. (Pretty Young Thing)
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Human Nature
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Thriller - Single Version
+url: https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY
+album: The Essential Michael Jacksonartist: Fall Out Boy
+song: Thriller
+url: https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g
+album: Infinity On High (Deluxe Edition)artist: Michael Jackson
+song: Wanna Be Startin' Somethin'
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Baby Be Mine
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: Wanna Be Startin' Somethin'
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: Human Nature
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: The Girl Is Mine
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: The Lady in My Life
+url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+album: Thrillerartist: Michael Jackson
+song: The Girl Is Mine
+url: https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a
+album: Thriller 25 Super Deluxe Editionartist: Michael Jackson
+song: Thriller
+url: https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+------------------------------------------------
+do-what-it-says:
+artist: Backstreet Boys
+song: I Want It That Way
+url: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+album: The Hits--Chapter Oneartist: Backstreet Boys
+song: I Want It That Way
+url: https://open.spotify.com/album/0A0F3AqFbEy1ZQgJwAXFzm
+album: The Essential Backstreet Boysartist: Backstreet Boys
+song: I Want It That Way
+url: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+album: Millenniumartist: Glee Cast
+song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+url: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)artist: Anthem Lights
+song: I Want It That Way
+url: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+album: Covers Part IVartist: Various Artists
+song: I Want It That Way
+url: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+album: 90 Sweet 90s Hits!artist: Manuel Costa
+song: I Want It That Way
+url: https://open.spotify.com/album/6wvoRSY2PmpyX68rSC4JJv
+album: I Want It That Wayartist: Various Artists
+song: I Want It That Way
+url: https://open.spotify.com/album/7LfKQOyYrhtCEqR4rr2J2M
+album: Punk Goes Popartist: Brittany Howard
+song: I Want It That Way
+url: https://open.spotify.com/album/2TjFN2fzqwXvU0op1FPVml
+album: I Want It That Wayartist: "Weird Al" Yankovic
+song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+url: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+album: Poodle Hatartist: Boyce Avenue
+song: I Want It That Way
+url: https://open.spotify.com/album/4gU5s9CPcYF1qDt5zCePiU
+album: New Acoustic Sessions, Vol. 3artist: Landon Austin
+song: I Want It That Way
+url: https://open.spotify.com/album/6sBR6yebVg4PX9ZzlgR4rr
+album: I Want It That Wayartist: "Weird Al" Yankovic
+song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+url: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+album: The Essential "Weird Al" Yankovicartist: Kyle Olthoff
+song: I Want It That Way
+url: https://open.spotify.com/album/01MwM46RP1hQqURHnWjxjl
+album: I Want It That Wayartist: Various Artists
+song: I Want It That Way
+url: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+album: NOW That's What I Call 90s Popartist: Steel Panther
+song: I Want It That Way
+url: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+album: I Want It That Wayartist: NKOTBSB
+song: I Want It That Way
+url: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+album: NKOTBSBartist: Scott Bradlee's Postmodern Jukebox
+song: I Want It That Way
+url: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+album: Selfies on Kodachromeartist: Jason Chen
+song: I Want It That Way
+url: https://open.spotify.com/album/38k1kWpEpMfMRBmyL5FMi6
+album: I Want It That Wayartist: Scott Bradlee's Postmodern Jukebox
+song: I Want It That Way
+url: https://open.spotify.com/album/3ML7JPnFJCwqWQ9593iNW8
+album: PMJ Is For Lovers: The Love Song Collection
+------------------------------------------------
